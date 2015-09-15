@@ -1,0 +1,5 @@
+HIOFCR   0   1  10
+STOL3N   3  10  20
+10URED   8   1  30
+2DIE4    7   1   5
+BYOFCR   2   1  15
